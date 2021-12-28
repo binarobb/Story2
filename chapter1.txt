@@ -1,2 +1,4 @@
-This is a new story
-This isa great story
+This is a new story.
+This is a great story.
+
+Branch ex. 
